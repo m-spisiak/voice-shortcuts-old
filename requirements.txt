@@ -2,3 +2,4 @@ pyautogui - pip pip install PyAutoGUI
 swig - verizia tvojho PC a vytvorit k nemu path
 pyaudio
 speechrecognition
+pockesphinx
